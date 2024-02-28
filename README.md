@@ -24,6 +24,6 @@
 <img align="center" alt="html5" src = "https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 </div><br/>
 
-#### Atualmente desenvolvedor de software em eTech, Team e IFPB/UPE. Engenharia do software. Desenvolvedor da dll ISBNQuery, com 4K+ de downloads no NugetPackge.
+#### Atualmente desenvolvedor de software em Triplo X. IFPB/UPE. Engenharia do software. Desenvolvedor da dll ISBNQuery, com +6K de downloads no Nuget Packge.
 
 
