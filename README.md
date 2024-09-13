@@ -3,7 +3,7 @@
 
 ### Olá! Sou o Manoel. ✌️
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manoel-victor-lira-832442283/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manoel-victor-silva-lira-832442283/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/victordw.bbc/)
 
 ![Manoel's GitHub stats](https://github-readme-stats.vercel.app/api?username=manoel0810&show_icons=true&theme=radical)
