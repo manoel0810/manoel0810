@@ -1,13 +1,9 @@
 
 <div style="display: inline_block" align="center">
 
-### Olá! Sou o Manoel. ✌️
+### Olá! ✌️
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manoel-victor-silva-lira-832442283/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/victordw.bbc/)
-
-![Manoel's GitHub stats](https://github-readme-stats.vercel.app/api?username=manoel0810&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manoel0810&layout=compact&theme=radical)
 
 </div>
 
@@ -24,6 +20,6 @@
 <img align="center" alt="html5" src = "https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 </div><br/>
 
-#### Atualmente desenvolvedor de software em Triplo X. IFPB/UPE. Engenharia do software. Desenvolvedor da dll ISBNQuery, com +6K de downloads no Nuget Packge.
+#### Desenvolvedor de sistemas de Consórcio de alta demanda na empresa Topaz - Stefanini Group. Desenvolvedor principal, atundo com .NET Core, ASP.NET, SQL Server, etc.
 
 
